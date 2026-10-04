@@ -1,12 +1,12 @@
 # Amberion
 
-Dunkles Omarchy-Theme: tiefes Petrol als Grund, **Bernstein als Akzent**, warmes Creme als Text. Fünf Wallpapers (3840×2160) teilen die Basis und haben je einen eigenen Farbakzent.
+A dark Omarchy theme: deep teal background, **amber accent**, warm cream text. Five 4K wallpapers (3840×2160) share one base palette and each add their own color accent.
 
-![Amberion Desktop](docs/desktop.jpg)
+![Amberion desktop](docs/desktop.jpg)
 
 ## Installation
 
-Im Omarchy-Menü `Install > Style > Theme` und diese Repo-URL eingeben, oder:
+In the Omarchy menu choose `Install > Style > Theme` and enter this repo URL, or run:
 
 ```bash
 omarchy theme install https://github.com/mrt187/omarchy-amberion-theme
@@ -14,11 +14,17 @@ omarchy theme install https://github.com/mrt187/omarchy-amberion-theme
 
 ## Wallpapers
 
-Station (Cyan), Wüste mit zwei Sonnen (Rosa), Neonstadt im Regen (Rot), Eisplanet mit Polarlicht (Grün), Helm-Closeup (Violett).
+| File | Scene | Accent |
+|---|---|---|
+| `00-station.jpg` | Astronaut in an abandoned space station | Cyan |
+| `01-desert.jpg` | Desert dunes under two suns | Pink |
+| `02-city.jpg` | Neon city in the rain | Red |
+| `03-ice.jpg` | Ice planet with aurora | Green |
+| `04-helmet.jpg` | Astronaut helmet close-up | Violet |
 
-## Farben
+## Colors
 
-| Name | Wert |
+| Name | Value |
 |---|---|
 | accent | `#c3915d` |
 | selection | `#1f3436` |
@@ -47,6 +53,6 @@ Station (Cyan), Wüste mit zwei Sonnen (Rosa), Neonstadt im Regen (Rot), Eisplan
 | bright blue | `#5b96ba` |
 | bright magenta | `#b898c4` |
 
-## Lizenz und KI-Hinweis
+## License and AI disclosure
 
-Die Wallpapers sind **KI-generiert** (OpenAI-Bildgenerierung) und anschließend mit Real-ESRGAN auf 4K hochskaliert. Theme und Wallpapers stehen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), siehe `LICENSE.md`.
+The wallpapers are **AI-generated** (OpenAI image generation) and upscaled to 4K with Real-ESRGAN. Theme and wallpapers are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), see `LICENSE.md`.

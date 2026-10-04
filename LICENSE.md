@@ -1,8 +1,8 @@
-# Lizenz
+# License
 
-Alle Inhalte dieses Repos (Farbpalette, Konfiguration, Wallpapers, Dokumentation) stehen unter der
-Creative Commons Namensnennung 4.0 International (CC BY 4.0).
+All contents of this repository (color palette, configuration, wallpapers, documentation) are licensed under
+the Creative Commons Attribution 4.0 International license (CC BY 4.0).
 
-Volltext: https://creativecommons.org/licenses/by/4.0/legalcode
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
 
-Namensnennung: "Amberion" von mrt187.
+Attribution: "Amberion" by mrt187.
