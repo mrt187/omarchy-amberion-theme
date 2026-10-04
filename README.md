@@ -1,6 +1,6 @@
 # Amberion
 
-A dark Omarchy theme: deep teal background, **amber accent**, warm cream text. Five 4K wallpapers (3840×2160) share one base palette and each add their own color accent.
+A dark Omarchy theme: deep teal background, **amber accent**, warm cream text. Five 4K wallpapers (3840×2160) share a teal and amber base, each with its own color highlight.
 
 ![Amberion desktop](docs/desktop.jpg)
 
